@@ -1,4 +1,4 @@
-# Wardrobe Manager (穿搭管理) 🐾
+# Smart Clothes Advisor (智能衣服穿搭助手) 🐾
 
 基于 26°C 穿衣法则的智能穿搭推荐系统。
 
