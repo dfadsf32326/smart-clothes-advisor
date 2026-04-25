@@ -1,68 +1,169 @@
 {
   "items": [
     {
-      "id": "white_puffer_jacket_001",
+      "id": "1",
+      "name": "经典厚羽绒服",
+      "category": "厚羽绒服",
+      "warmth": 85,
+      "color": "黑色",
+      "style": "商务",
+      "tags": [
+        "街头"
+      ],
+      "brand": "1",
+      "status": "在穿",
+      "image_path": "assets/images/1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "轻量便携羽绒",
+      "category": "轻羽绒",
+      "warmth": 65,
+      "color": "灰紫色",
+      "style": "日系",
+      "tags": [
+        "复古"
+      ],
+      "brand": "2",
+      "status": "在穿",
+      "image_path": "assets/images/2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "都市休闲风衣",
+      "category": "风衣",
+      "warmth": 75,
+      "color": "白色",
+      "style": "休闲",
+      "tags": [
+        "简约舒适"
+      ],
+      "brand": "3",
+      "status": "在穿",
+      "image_path": "assets/images/3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "宽松连帽卫衣",
+      "category": "卫衣",
+      "warmth": 55,
+      "color": "黑色",
+      "style": "韩系",
+      "tags": [
+        "户外"
+      ],
+      "brand": "4",
+      "status": "在穿",
+      "image_path": "assets/images/4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "纯棉短袖T恤",
+      "category": "短袖T恤",
+      "warmth": 35,
+      "color": "灰紫色",
+      "style": "美式",
+      "tags": [
+        "运动"
+      ],
+      "brand": "5",
+      "status": "在穿",
+      "image_path": "assets/images/5.jpg"
+    },
+    {
+      "id": "6",
       "name": "PRBLMS 白色立领羽绒服",
       "category": "厚羽绒服",
-      "color": "白色",
       "warmth": 9,
+      "color": "白色",
       "style": "美式",
-      "tags": ["街头", "复古", "简约舒适"],
-      "image_path": "assets/images/white_puffer_jacket.jpg",
+      "tags": [
+        "街头",
+        "复古",
+        "简约舒适"
+      ],
       "brand": "PRBLMS",
-      "status": "in_stock"
-    }
+      "status": "in_stock",
+      "image_path": "assets/images/6.jpg"
+    },
     {
-      "id": "purple_tshirt_001",
+      "id": "7",
       "name": "灰紫色圆领短袖 T 恤",
       "category": "短袖 T 恤",
-      "color": "灰紫色",
       "warmth": 1,
+      "color": "灰紫色",
       "style": "日系",
-      "tags": ["简约舒适", "盐系"],
-      "image_path": "assets/images/purple_tshirt.jpg",
+      "tags": [
+        "简约舒适",
+        "盐系"
+      ],
       "brand": "未知",
-      "status": "in_stock"
-    }
+      "status": "in_stock",
+      "image_path": "assets/images/7.jpg"
+    },
     {
-      "id": "khaki_tshirt_001",
+      "id": "8",
       "name": "卡其色圆领短袖 T 恤",
       "category": "短袖 T 恤",
-      "color": "卡其色",
       "warmth": 1,
+      "color": "卡其色",
       "style": "日系",
-      "tags": ["简约舒适", "盐系"],
-      "image_path": "assets/images/khaki_tshirt.jpg",
+      "tags": [
+        "简约舒适",
+        "盐系"
+      ],
       "brand": "未知",
-      "status": "in_stock"
-    }
+      "status": "in_stock",
+      "image_path": "assets/images/8.jpg"
+    },
     {
-      "id": "grey_sweater_001",
+      "id": "9",
       "name": "Cabbeen 蓝灰色圆领针织毛衣",
       "category": "厚毛衣",
-      "color": "蓝灰色",
       "warmth": 5,
+      "color": "蓝灰色",
       "style": "日系",
-      "tags": ["简约舒适", "精致"],
-      "image_path": "assets/images/grey_sweater.jpg",
+      "tags": [
+        "简约舒适",
+        "精致"
+      ],
       "brand": "Cabbeen",
-      "status": "in_stock"
-    }
+      "status": "in_stock",
+      "image_path": "assets/images/9.jpg"
+    },
     {
-      "id": "grey_sweatshirt_001",
+      "id": "10",
       "name": "CEC 灰色圆领卫衣",
       "category": "卫衣",
-      "color": "灰色",
       "warmth": 3,
+      "color": "灰色",
       "style": "韩系",
-      "tags": ["简约舒适", "休闲", "街头"],
-      "image_path": "assets/images/grey_sweatshirt.jpg",
+      "tags": [
+        "简约舒适",
+        "休闲",
+        "街头"
+      ],
       "brand": "CEC",
-      "status": "in_stock"
+      "status": "in_stock",
+      "image_path": "assets/images/10.jpg"
     }
   ],
   "config": {
-    "styles": ["商务", "日系", "韩系", "美式"],
-    "tags": ["正式干练", "简约舒适", "复古", "街头", "户外", "运动", "盐系", "精致"]
+    "styles": [
+      "商务",
+      "日系",
+      "韩系",
+      "美式"
+    ],
+    "tags": [
+      "正式干练",
+      "简约舒适",
+      "复古",
+      "街头",
+      "户外",
+      "运动",
+      "盐系",
+      "精致"
+    ]
   }
 }
