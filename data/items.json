@@ -1,76 +1,6 @@
 {
   "items": [
     {
-      "id": "1",
-      "name": "经典厚羽绒服",
-      "category": "厚羽绒服",
-      "warmth": 85,
-      "color": "黑色",
-      "style": "商务",
-      "tags": [
-        "街头"
-      ],
-      "brand": "1",
-      "status": "在穿",
-      "image_path": "assets/images/1.jpg"
-    },
-    {
-      "id": "2",
-      "name": "轻量便携羽绒",
-      "category": "轻羽绒",
-      "warmth": 65,
-      "color": "灰紫色",
-      "style": "日系",
-      "tags": [
-        "复古"
-      ],
-      "brand": "2",
-      "status": "在穿",
-      "image_path": "assets/images/2.jpg"
-    },
-    {
-      "id": "3",
-      "name": "都市休闲风衣",
-      "category": "风衣",
-      "warmth": 75,
-      "color": "白色",
-      "style": "休闲",
-      "tags": [
-        "简约舒适"
-      ],
-      "brand": "3",
-      "status": "在穿",
-      "image_path": "assets/images/3.jpg"
-    },
-    {
-      "id": "4",
-      "name": "宽松连帽卫衣",
-      "category": "卫衣",
-      "warmth": 55,
-      "color": "黑色",
-      "style": "韩系",
-      "tags": [
-        "户外"
-      ],
-      "brand": "4",
-      "status": "在穿",
-      "image_path": "assets/images/4.jpg"
-    },
-    {
-      "id": "5",
-      "name": "纯棉短袖T恤",
-      "category": "短袖T恤",
-      "warmth": 35,
-      "color": "灰紫色",
-      "style": "美式",
-      "tags": [
-        "运动"
-      ],
-      "brand": "5",
-      "status": "在穿",
-      "image_path": "assets/images/5.jpg"
-    },
-    {
       "id": "6",
       "name": "PRBLMS 白色立领羽绒服",
       "category": "厚羽绒服",
@@ -146,6 +76,40 @@
       "brand": "CEC",
       "status": "in_stock",
       "image_path": "assets/images/10.jpg"
+    },
+    {
+      "id": "11",
+      "name": "嘻嘻做的手工扎染T恤",
+      "category": "短袖T恤",
+      "warmth": 1,
+      "color": "白色",
+      "style": "休闲",
+      "tags": [
+        "短袖",
+        "扎染",
+        "手工",
+        "西西",
+        "夏天"
+      ],
+      "brand": "未知",
+      "status": "in_stock",
+      "image_path": "assets/images/11.jpg"
+    },
+    {
+      "id": "13",
+      "name": "京东京造男士平角内裤",
+      "category": "内裤",
+      "warmth": 1,
+      "color": "灰褐色",
+      "style": "基础款",
+      "tags": [
+        "平角裤",
+        "内裤",
+        "基础款"
+      ],
+      "brand": "京东京造",
+      "status": "in_stock",
+      "image_path": "assets/images/13.jpg"
     }
   ],
   "config": {

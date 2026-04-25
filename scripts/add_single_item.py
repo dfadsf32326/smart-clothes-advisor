@@ -30,8 +30,8 @@ def main():
         "单品名称": args.name,
         "品类": args.category,
         "颜色": args.color,
-        "保暖度评分": args.warmth,
-        "穿搭风格": args.style,
+        "保暖度分值": args.warmth,
+        "风格": args.style,
         "适用场景/标签": [t.strip() for t in args.tags.split(",") if t.strip()],
         "品牌": args.brand,
         "状态": args.status
@@ -52,7 +52,9 @@ def main():
 
     if args.image and os.path.exists(args.image):
         print(f"2. Uploading image attachment: {args.image}")
-        upload_cmd = f"{LARK_CLI} base +record-upload-attachment --base-token {BASE_TOKEN} --table-id {TABLE_ID} --record-id {record_id} --field-id '单品图片' --file '{args.image}'"
+        img_dir = os.path.dirname(os.path.abspath(args.image))
+        img_name = os.path.basename(args.image)
+        upload_cmd = f"cd '{img_dir}' && {LARK_CLI} base +record-upload-attachment --base-token {BASE_TOKEN} --table-id {TABLE_ID} --record-id {record_id} --field-id 'fld3xOg2p9' --file './{img_name}'"
         upload_out = run_command(upload_cmd)
         if '"ok": true' in upload_out.lower():
             print("✅ Image uploaded successfully.")
