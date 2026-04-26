@@ -148,6 +148,245 @@
       "brand": "FU SHI",
       "status": "in_stock",
       "image_path": "assets/images/15.jpg"
+    },
+    {
+      "id": "16",
+      "name": "复古撞色加绒保暖卫衣",
+      "category": "卫衣",
+      "warmth": 4,
+      "color": "撞色拼接",
+      "style": "休闲复古",
+      "tags": [
+        "卫衣",
+        "圆领",
+        "拼色",
+        "加绒",
+        "保暖"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/16.jpg"
+    },
+    {
+      "id": "17",
+      "name": "复古字母提花圆领毛衣",
+      "category": "毛衣",
+      "warmth": 4,
+      "color": "燕麦灰底",
+      "style": "复古",
+      "tags": [
+        "毛衣",
+        "针织衫",
+        "圆领",
+        "满印",
+        "字母提花",
+        "慵懒风"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/17.jpg"
+    },
+    {
+      "id": "18",
+      "name": "黑灰色保暖裤",
+      "category": "内衣",
+      "warmth": 2,
+      "color": "黑灰色",
+      "style": "基础",
+      "tags": [
+        "秋裤",
+        "保暖裤",
+        "打底",
+        "基础款"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/18.jpg"
+    },
+    {
+      "id": "19",
+      "name": "极简灰法兰绒长款睡袍",
+      "category": "睡袍",
+      "warmth": 4,
+      "color": "纯灰色",
+      "style": "居家",
+      "tags": [
+        "睡袍",
+        "家居服",
+        "法兰绒",
+        "纯色",
+        "居家必备",
+        "秋冬保暖"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/19.jpg"
+    },
+    {
+      "id": "20",
+      "name": "深灰色加绒保暖裤",
+      "category": "内衣",
+      "warmth": 4,
+      "color": "深灰色",
+      "style": "基础",
+      "tags": [
+        "秋裤",
+        "保暖裤",
+        "加绒",
+        "打底裤",
+        "基础款"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/20.jpg"
+    },
+    {
+      "id": "21",
+      "name": "黑色工装短裤",
+      "category": "短裤",
+      "warmth": 1,
+      "color": "黑色",
+      "style": "工装",
+      "tags": [
+        "短裤",
+        "工装",
+        "抽绳",
+        "多口袋",
+        "夏季穿搭"
+      ],
+      "brand": "UMBNERS",
+      "status": "in_stock",
+      "image_path": "assets/images/21.jpg"
+    },
+    {
+      "id": "22",
+      "name": "水洗灰蓝抽绳休闲阔腿裤",
+      "category": "长裤",
+      "warmth": 2,
+      "color": "水洗灰蓝",
+      "style": "复古休闲",
+      "tags": [
+        "长裤",
+        "阔腿裤",
+        "抽绳",
+        "水洗做旧",
+        "休闲"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/22.jpg"
+    },
+    {
+      "id": "23",
+      "name": "浅蓝水洗复古阔腿牛仔裤",
+      "category": "长裤",
+      "warmth": 2,
+      "color": "浅蓝水洗",
+      "style": "复古休闲",
+      "tags": [
+        "牛仔裤",
+        "阔腿裤",
+        "水洗做旧",
+        "浅蓝",
+        "休闲百搭",
+        "直筒裤"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/23.jpg"
+    },
+    {
+      "id": "24",
+      "name": "麻灰纯色连帽卫衣",
+      "category": "卫衣",
+      "warmth": 3,
+      "color": "花灰色",
+      "style": "基础休闲",
+      "tags": [
+        "卫衣",
+        "连帽",
+        "麻灰",
+        "基础款",
+        "百搭",
+        "纯色无印花"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/24.jpg"
+    },
+    {
+      "id": "25",
+      "name": "深灰色长袖打底衫",
+      "category": "内衣",
+      "warmth": 2,
+      "color": "深灰色",
+      "style": "基础居家",
+      "tags": [
+        "秋衣",
+        "长袖打底衫",
+        "内搭",
+        "基础款",
+        "纯色"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/25.jpg"
+    },
+    {
+      "id": "26",
+      "name": "浅蓝色水洗牛仔夹克",
+      "category": "外套",
+      "warmth": 3,
+      "color": "浅蓝色",
+      "style": "休闲",
+      "tags": [
+        "牛仔外套",
+        "夹克",
+        "复古水洗",
+        "休闲百搭",
+        "春秋穿搭"
+      ],
+      "brand": "A21",
+      "status": "in_stock",
+      "image_path": "assets/images/26.jpg"
+    },
+    {
+      "id": "27",
+      "name": "黑色束脚保暖裤",
+      "category": "内衣",
+      "warmth": 3,
+      "color": "纯黑色",
+      "style": "基础",
+      "tags": [
+        "秋裤",
+        "保暖裤",
+        "打底裤",
+        "黑色",
+        "基础款",
+        "束脚"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/27.jpg"
+    },
+    {
+      "id": "28",
+      "name": "灰色坑条保暖秋裤",
+      "category": "内衣",
+      "warmth": 2,
+      "color": "浅灰色",
+      "style": "基础",
+      "tags": [
+        "秋裤",
+        "保暖内衣",
+        "打底裤",
+        "贴身衣物",
+        "坑条针织",
+        "基础款"
+      ],
+      "brand": "无",
+      "status": "in_stock",
+      "image_path": "assets/images/28.jpg"
     }
   ],
   "config": {
