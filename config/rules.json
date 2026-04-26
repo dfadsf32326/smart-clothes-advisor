@@ -1,7 +1,8 @@
 {
   "version": "1.0",
   "user_preference": {
-    "target_temp": 26,
+    "base_target_temp": 26,
+    "current_target_temp": 26,
     "cold_sensitivity": "high",
     "feedback_history": []
   },
