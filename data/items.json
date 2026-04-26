@@ -88,7 +88,6 @@
         "短袖",
         "扎染",
         "手工",
-        "西西",
         "夏天"
       ],
       "brand": "未知",
@@ -110,6 +109,45 @@
       "brand": "京东京造",
       "status": "in_stock",
       "image_path": "assets/images/13.jpg"
+    },
+    {
+      "id": "14",
+      "name": "黑白涂鸦字母拼接连帽工装夹克",
+      "category": "外套",
+      "warmth": 4,
+      "color": "黑色拼接",
+      "style": "街头潮牌",
+      "tags": [
+        "夹克",
+        "长袖",
+        "连帽",
+        "拉链",
+        "涂鸦",
+        "工装口袋",
+        "防风"
+      ],
+      "brand": "We11done",
+      "status": "in_stock",
+      "image_path": "assets/images/14.jpg"
+    },
+    {
+      "id": "15",
+      "name": "燕麦色中长款连帽羽绒服",
+      "category": "外套",
+      "warmth": 9,
+      "color": "燕麦色",
+      "style": "休闲",
+      "tags": [
+        "羽绒服",
+        "长袖",
+        "连帽",
+        "中长款",
+        "绗缝",
+        "极寒防寒"
+      ],
+      "brand": "FU SHI",
+      "status": "in_stock",
+      "image_path": "assets/images/15.jpg"
     }
   ],
   "config": {
