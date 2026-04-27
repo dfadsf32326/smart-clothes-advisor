@@ -49,13 +49,14 @@
     {
       "id": "9",
       "name": "Cabbeen 蓝灰色圆领针织毛衣",
-      "category": "厚毛衣",
+      "category": "毛衣",
       "warmth": 5,
       "color": "蓝灰色",
       "style": "日系",
       "tags": [
         "简约舒适",
-        "精致"
+        "精致",
+        "毛衣"
       ],
       "brand": "Cabbeen",
       "status": "in_stock",
@@ -71,7 +72,8 @@
       "tags": [
         "简约舒适",
         "休闲",
-        "街头"
+        "街头",
+        "卫衣"
       ],
       "brand": "CEC",
       "status": "in_stock",
@@ -152,7 +154,7 @@
     {
       "id": "16",
       "name": "复古撞色加绒保暖卫衣",
-      "category": "卫衣",
+      "category": "保暖衣",
       "warmth": 4,
       "color": "撞色拼接",
       "style": "休闲复古",
@@ -496,7 +498,7 @@
     {
       "id": "37",
       "name": "蓝白扎染水洗条纹长袖衬衫",
-      "category": "上装",
+      "category": "衬衫",
       "warmth": 3,
       "color": "蓝白相间",
       "style": "复古休闲",
@@ -505,7 +507,8 @@
         "水洗做旧",
         "复古休闲",
         "叠穿神器",
-        "文艺风"
+        "文艺风",
+        "衬衫"
       ],
       "brand": "无",
       "status": "in_stock",
@@ -731,7 +734,7 @@
     {
       "id": "50",
       "name": "灰色圆领卫衣",
-      "category": "上装",
+      "category": "卫衣",
       "warmth": 6,
       "color": "灰色",
       "style": "休闲居家",
@@ -740,7 +743,8 @@
         "圆领",
         "罗纹袖口",
         "纯色",
-        "基础款"
+        "基础款",
+        "卫衣"
       ],
       "brand": "无",
       "status": "in_stock",
@@ -749,7 +753,7 @@
     {
       "id": "51",
       "name": "深灰长袖衬衫",
-      "category": "上装",
+      "category": "衬衫",
       "warmth": 3,
       "color": "深灰色",
       "style": "商务休闲",
@@ -768,7 +772,7 @@
     {
       "id": "52",
       "name": "灰色套头卫衣",
-      "category": "上装",
+      "category": "卫衣",
       "warmth": 6,
       "color": "灰色",
       "style": "休闲运动",
@@ -1244,13 +1248,14 @@
     {
       "id": "81",
       "name": "黑色圆领卫衣",
-      "category": "上衣",
+      "category": "卫衣",
       "warmth": 7,
       "color": "黑色",
       "style": "休闲",
       "tags": [
         "内搭",
-        "秋冬"
+        "秋冬",
+        "卫衣"
       ],
       "brand": "未知",
       "status": "in_stock",
@@ -1290,7 +1295,7 @@
     {
       "id": "84",
       "name": "深色长袖套头卫衣",
-      "category": "上衣",
+      "category": "卫衣",
       "warmth": 5,
       "color": "深色",
       "style": "休闲",
@@ -1311,7 +1316,6 @@
       "color": "灰色",
       "style": "休闲,基础",
       "tags": [
-        "卫衣",
         "长袖"
       ],
       "brand": "未知",
@@ -1481,16 +1485,173 @@
       "image_path": "assets/images/114.jpg"
     },
     {
-      "id": "115",
-      "name": "未知",
-      "category": "未知",
-      "warmth": 1,
-      "color": "未知",
-      "style": "未知",
-      "tags": [],
+      "id": "116",
+      "name": "格子保暖居家服",
+      "category": "上衣",
+      "warmth": 4,
+      "color": "拼色",
+      "style": "居家",
+      "tags": [
+        "保暖",
+        "拉链"
+      ],
       "brand": "未知",
-      "status": "未知",
-      "image_path": "assets/images/115.jpg"
+      "status": "活跃",
+      "image_path": "assets/images/116.jpg"
+    },
+    {
+      "id": "117",
+      "name": "深灰连帽棉服",
+      "category": "外套",
+      "warmth": 4,
+      "color": "深灰色",
+      "style": "运动",
+      "tags": [
+        "防风",
+        "连帽"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/117.jpg"
+    },
+    {
+      "id": "118",
+      "name": "卡其色保暖马甲",
+      "category": "外套",
+      "warmth": 3,
+      "color": "卡其色",
+      "style": "休闲",
+      "tags": [
+        "马甲",
+        "保暖"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/118.jpg"
+    },
+    {
+      "id": "119",
+      "name": "黑色长款连帽羽绒服",
+      "category": "外套",
+      "warmth": 5,
+      "color": "黑色",
+      "style": "休闲",
+      "tags": [
+        "长款",
+        "羽绒服",
+        "连帽"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/119.jpg"
+    },
+    {
+      "id": "120",
+      "name": "军绿色连帽派克服",
+      "category": "外套",
+      "warmth": 4,
+      "color": "军绿色",
+      "style": "休闲",
+      "tags": [
+        "派克服",
+        "连帽",
+        "羊羔绒"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/120.jpg"
+    },
+    {
+      "id": "121",
+      "name": "深蓝色连帽轻薄羽绒服",
+      "category": "外套",
+      "warmth": 4,
+      "color": "深蓝色",
+      "style": "休闲",
+      "tags": [
+        "轻薄",
+        "连帽",
+        "羽绒服"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/121.jpg"
+    },
+    {
+      "id": "123",
+      "name": "棕色连帽羽绒服",
+      "category": "外套",
+      "warmth": 5,
+      "color": "棕色",
+      "style": "休闲",
+      "tags": [
+        "连帽",
+        "羽绒服"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/123.jpg"
+    },
+    {
+      "id": "124",
+      "name": "黑色工装风加厚外套",
+      "category": "外套",
+      "warmth": 5,
+      "color": "黑色",
+      "style": "工装",
+      "tags": [
+        "加厚",
+        "多口袋",
+        "高领"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/124.jpg"
+    },
+    {
+      "id": "125",
+      "name": "一袋鞋带",
+      "category": "配饰",
+      "warmth": 1,
+      "color": "杂色",
+      "style": "运动",
+      "tags": [
+        "鞋带",
+        "配件"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/125.jpg"
+    },
+    {
+      "id": "126",
+      "name": "灰色五指袜",
+      "category": "配饰",
+      "warmth": 1,
+      "color": "灰色",
+      "style": "休闲",
+      "tags": [
+        "袜子",
+        "五指袜"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/126.jpg"
+    },
+    {
+      "id": "127",
+      "name": "深灰色五指袜",
+      "category": "配饰",
+      "warmth": 1,
+      "color": "深灰色",
+      "style": "休闲",
+      "tags": [
+        "袜子",
+        "五指袜"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/127.jpg"
     }
   ],
   "config": {
