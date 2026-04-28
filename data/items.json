@@ -1647,11 +1647,28 @@
       "style": "休闲",
       "tags": [
         "袜子",
-        "五指袜"
+        "五指袜",
+        "户外"
       ],
       "brand": "未知",
       "status": "活跃",
       "image_path": "assets/images/127.jpg"
+    },
+    {
+      "id": "128",
+      "name": "黑色休闲短裤",
+      "category": "下装",
+      "warmth": 1,
+      "color": "黑色",
+      "style": "休闲",
+      "tags": [
+        "短裤",
+        "休闲",
+        "夏季"
+      ],
+      "brand": "未知",
+      "status": "活跃",
+      "image_path": "assets/images/128.jpg"
     }
   ],
   "config": {
